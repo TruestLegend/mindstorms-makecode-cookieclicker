@@ -2,4 +2,4 @@
 It is cookieclicker in a robot?
 
 
-ehhm nothing jet... let me code for a bit ok?
+It is still a beta, but something right?
