@@ -8,4 +8,4 @@ Made with makecode.mindstorms.com! :D
 
 (in javascript of course(i mean without blocks))
 
-pls star
+please star this so know how many people have seen this project of mine :) 
